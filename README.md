@@ -45,7 +45,11 @@ git clone https://github.com/dasloinc/PWA-Buget-Tracker
 
 cd PWA-budget_Tacker
 
-npm install
+- npm install
+- express
+- logger
+- compression
+- mongoose
 
 Once the steps are completed and the npm packages have been installed continue with:
 
