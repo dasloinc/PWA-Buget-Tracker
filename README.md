@@ -30,6 +30,23 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
 
-### Links
+## Links
 
-https://github.com/dasloinc/Workout-Tracker
+Repository:
+https://github.com/dasloinc/PWA-Buget-Tracker
+
+Heroku:
+https://pwa-budget-trackers.herokuapp.com/
+
+### Using the Application:
+In your terminal run the following commands one at a time:
+
+git clone https://github.com/dasloinc/PWA-Buget-Tracker
+
+cd PWA-budget_Tacker
+
+npm install
+
+Once the steps are completed and the npm packages have been installed continue with:
+
+node server.js Now continue with terminal to check how the application saves while online/offline.
