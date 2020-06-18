@@ -21,7 +21,7 @@ app.use(express.static("public"));
 //   useFindAndModify: false
 // });
 
-mongoose.connect("mongodb://<heroku_vjm42zx0>:<dbpassword>@ds155811.mlab.com:55811/heroku_vjm42zx0", {
+mongoose.connect("mongodb://<dbuser>:<dbpassword>@ds239858.mlab.com:39858/heroku_h6xzk86g", {
   useNewUrlParser: true,
   useFindAndModify: false
 });
